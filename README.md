@@ -68,4 +68,6 @@ The project was birthed from [Hugo Cornellier's video taking a picture everyday 
   
 ## Final Thoughts:
 - If you found this project useful, or interesting, please reach out to me!! This project has been my passion project and it's been a direct representation of my coding growth over the years. I'd love to see how you'd like to use it.
-- If you *really* found this project helpful, if you'd like to support me and this project, my CashApp is $ANoahBuchanan ;)
+- If you *really* found this project helpful, if you'd like to support me and this project, my CashApp is $NoahCutz, or you can 'Buy Me A Coffee' ;)
+
+<p align='center'><a href="https://www.buymeacoffee.com/NoahBuchanan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="150" ></a></p>
